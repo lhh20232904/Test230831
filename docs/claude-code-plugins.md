@@ -6,8 +6,8 @@ Nguồn: video https://www.youtube.com/watch?v=7IiDEWOUc6c
 |---|--------|-------|---------------------------|
 | 1 | Claude Code Setup | Anthropic (chính thức) | ✅ Đã bật trong `.claude/settings.json` |
 | 2 | Claude Security | Anthropic (chính thức, beta) | ✅ Đã bật trong `.claude/settings.json` |
-| 3 | Claude Mem | Bên thứ ba (thedotmack) | ⏳ Chờ xác nhận — cài thủ công bên dưới |
-| 4 | Headroom | Bên thứ ba (headroomlabs-ai) | ⏳ Chờ xác nhận — cài thủ công bên dưới |
+| 3 | Claude Mem | Bên thứ ba (thedotmack) | ✅ Đã bật trong `.claude/settings.json` |
+| 4 | Headroom | Bên thứ ba (headroomlabs-ai) | ✅ Đã bật (cần cài thêm CLI Python) |
 | 5 | OmniRoute | Bên thứ ba (proxy, không phải plugin) | ⚠️ Chỉ nên cài trên máy cá nhân |
 
 Khi mở repo này trong Claude Code, chương trình sẽ hỏi bạn có tin tưởng
